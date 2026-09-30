@@ -41,9 +41,12 @@ After downloading, place the model in the project directory as:
 
 ## 📂 Project Structure
 
+```text
 HAR_Project/
 │
-├── resnet-34_kinetics.onnx
 ├── screenshots/
 │   └── human-action-recognition.png
+│
+├── Actions.txt
+├── action_recognition.py
 └── README.md
